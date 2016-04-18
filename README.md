@@ -1,7 +1,7 @@
 # DataAcademy
 Data Incubator
 
-<h1 style="color:blue;"> Project Proposal.</h1>
+<h1 style="color:blue;"> Project Proposal : Graph Analytics Methods in Feature Engineering</h1>
 
 Using the San Francisco Crime Data prediction on Kaggle. Convert to this data into graph structure by applying techniques like graph analytics , spectral embedding and manifold learning. Converting this large data set into a graph structure will enhance the extraction of meaningful insights from the data. 
 We can see who is connected to who in terms of committing crime, we can also detect who is the neighbor to who, who is the most important node in the network.etc
